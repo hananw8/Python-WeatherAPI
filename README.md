@@ -6,6 +6,6 @@ Supports metric and imperial units.
 Uses environment variables for API key security.
 Easy to extend with more cities.
 # Requirements
-Python 3.x
-requests
-python-dotenv
+- Python 3.x
+- requests
+- python-dotenv
